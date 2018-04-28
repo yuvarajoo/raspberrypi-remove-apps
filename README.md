@@ -6,17 +6,17 @@ Script to remove applications from Raspian desktop for clean start
 
 1.Run the following command in Pi Terminal:
 ```
-git clone git://github.com/raspberrycoulis/remove-bloat.git
+git clone git://github.com/raspberrycoulis/raspberrypi-remove-apps.git
 ```
 
 2.Make the script executable:
 ```
-sudo chmod +x remove-bloat.sh
+sudo chmod +x remove-apps.sh
 ```
 
 3.Run:
 ```
-sudo ./remove-bloat.sh
+sudo ./remove-apps.sh
 ```
 
 4.Script will `autoremove`, `autoclean` and `update` automatically
