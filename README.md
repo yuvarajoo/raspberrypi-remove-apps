@@ -38,5 +38,6 @@ sense emulation
 scratch2  
 nodered  
 libreoffice  
-claws mail  
+claws mail
+thonny python  
 

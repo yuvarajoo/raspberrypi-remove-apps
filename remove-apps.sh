@@ -24,6 +24,7 @@ sudo apt-get --yes remove --purge scratch2
 sudo apt-get --yes remove --purge nodered
 sudo apt-get --yes remove --purge libreoffice*
 sudo apt-get --yes remove --purge claws-mail
+sudo apt-get --yes remove --purge python3-thonny
 
 #remove unused directory
 rm -r /home/pi/python_games/
