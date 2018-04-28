@@ -21,22 +21,22 @@ sudo ./remove-bloat.sh
 
 4.Script will `autoremove`, `autoclean` and `update` automatically
 
-## 20180428
+### Update 20180428
 
 ### Removes following applications:
-minecraft pi 
-scratch
-wolfram
-debian reference
-epiphany browser
-sonic pi 
-supercollider
-greenfoot
-bluej
-sense hat
-sense emulation
-scratch2
-nodered
-libreoffice
-claws mail
+minecraft pi  
+scratch  
+wolfram  
+debian reference  
+epiphany browser  
+sonic pi  
+supercollider  
+greenfoot  
+bluej  
+sense hat  
+sense emulation  
+scratch2  
+nodered  
+libreoffice  
+claws mail  
 
