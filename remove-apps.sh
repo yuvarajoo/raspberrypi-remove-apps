@@ -25,6 +25,10 @@ sudo apt-get --yes remove --purge nodered
 sudo apt-get --yes remove --purge libreoffice*
 sudo apt-get --yes remove --purge claws-mail
 sudo apt-get --yes remove --purge python3-thonny
+sudo apt-get --yes remove --purge geany*
+sudo apt-get --yes remove --purge chromium-browser
+sudo apt-get --yes remove --purge realvnc-vnc-viewer
+sudo apt-get --yes remove --purge realvnc-vnc-server
 
 #remove unused directory
 rm -r /home/pi/python_games/
