@@ -9,17 +9,22 @@ Script to remove applications from Raspian desktop for clean start
 git clone git://github.com/techworked/raspberrypi-remove-apps.git
 ```
 
-2.Make the script executable:
+2.Move into folder
+```
+cd raspberrypi-remove-apps
+```
+
+3.Make the script executable:
 ```
 sudo chmod +x remove-apps.sh
 ```
 
-3.Run:
+4.Run:
 ```
 sudo ./remove-apps.sh
 ```
 
-4.Script will `autoremove`, `autoclean` and `update` automatically
+**Script will `autoremove`, `autoclean` and `update` automatically
 
 ### Update 20180428
 
