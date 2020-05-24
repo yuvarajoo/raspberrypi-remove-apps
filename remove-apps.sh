@@ -29,9 +29,11 @@ sudo apt-get --yes remove --purge geany*
 sudo apt-get --yes remove --purge chromium-browser
 sudo apt-get --yes remove --purge realvnc-vnc-viewer
 sudo apt-get --yes remove --purge realvnc-vnc-server
+sudo apt-get --yes remove --purge smartsim
+sudo apt-get --yes remove --purge piclone
 
 #remove unused directory
-rm -r /home/pi/python_games/
+sudo rm -R /usr/share/python_games
 
 # Autoremove
 sudo apt-get autoremove -y
